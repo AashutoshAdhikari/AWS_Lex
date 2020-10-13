@@ -1,2 +1,2 @@
 # AmazonLex
-Lab 5 of AWS AI/ML Internship
+A Weather Chat Bot in AWS Lex where user can get weather update information by sending city name to Chat Bot by using OpenWeatherMap API.
